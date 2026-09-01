@@ -1,7 +1,6 @@
 📌 Overview
 This project is a Python-based Email Forensic Parser designed for security analysts, incident responders, and threat hunters.
 It extracts key forensic metadata, attachments, and Indicators of Compromise (IOCs) from .eml email files.
-
 The tool supports:
 Email header parsing
 Authentication results (SPF, DKIM, DMARC)
