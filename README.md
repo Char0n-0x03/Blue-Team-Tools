@@ -40,6 +40,9 @@ Regex patterns can be extended easily.
 ▶️ Usage
 
 Run the script with an .eml file:
+
 ```python eioc.py <email-file.eml>```
+
 Example:
+
 ```python eioc.py sample.eml```
